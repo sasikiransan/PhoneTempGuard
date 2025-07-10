@@ -11,6 +11,10 @@ This project monitors your Android phone's battery temperature via USB using ADB
 - Works silently in background
 - Auto-starts with Windows (optional)
 
+
+If you want you can change the time and the max temperature the battery should have. 
+
+time is in seconds and the temperature is in celsius
 ---
 
 ## 🧰 Requirements
